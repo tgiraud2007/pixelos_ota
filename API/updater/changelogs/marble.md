@@ -3,7 +3,6 @@
 ### Highlights
 - **OTA Updates**: Added built-in PixelOS Updater (`Settings > System > System update`) with streaming A/B updates.
 - **Dolby Vision**: Added hardware-accelerated Dolby Vision AIDL decoding and advertised Dolby Vision HDR capability to apps.
-- **EROFS**: Switched all dynamic partitions to EROFS (smaller footprint, faster reads).
 - **Smoothness & Performance**: Added ADPF CPU hints and FlingBoost scroll boost in Power HAL, re-enabled SurfaceFlinger HWC prediction and auto-latching, tuned 120 Hz phase offsets, WALT/input boost, ZRAM (6 GB cap, swappiness 60) and UFS (`mq-deadline`), fixed missing `ukee` perf/power configs, and enabled `armv8-5a` + `cortex-a76` ART optimization.
 - **Bypass Charging UI**: Now shows the native Pixel Battery Defender shield icon and status card while bypass charging is active.
 

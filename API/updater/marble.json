@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1795625942,
+    "datetime": 1795635727,
     "files": [
       {
-        "filename": "PixelOS_marble-17.0-20261125-1710.zip",
+        "filename": "PixelOS_marble-17.0-20261125-1952.zip",
         "os_patch_level": "2026-11-01",
         "os_sdk_level": 37,
-        "sha256": "6713a70ba1c95705efbbd097449f9b7fc374508fe61d16e854084926d007089e",
-        "size": 3464259518,
-        "url": "https://pub-d816a74eb3414cce810b94e5c089c7be.r2.dev/seventeen/marble/PixelOS_marble-17.0-20261125-1710.zip",
-        "ota_property_files": "payload_metadata.bin:4868:148382,payload.bin:4868:3464251494,payload_properties.txt:3464256420:156,apex_info.pb:2375:1448,care_map.pb:3870:951,metadata:69:692,metadata.pb:829:1498                        "
+        "sha256": "c18f952071682581efbd0222ac7609d9918289a476aeac9ef022240f6da8f52f",
+        "size": 3105120781,
+        "url": "https://pub-d816a74eb3414cce810b94e5c089c7be.r2.dev/seventeen/marble/PixelOS_marble-17.0-20261125-1952.zip",
+        "ota_property_files": "payload_metadata.bin:4870:208572,payload.bin:4870:3105112755,payload_properties.txt:3105117683:156,apex_info.pb:2375:1448,care_map.pb:3870:953,metadata:69:692,metadata.pb:829:1498                        "
       }
     ],
     "type": "ci",
